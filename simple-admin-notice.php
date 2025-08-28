@@ -4,6 +4,7 @@
  * Description: A super simple plugin that displays a notice in the WordPress admin area.
  * Version: 1.0
  * Author: Your Name
+ * GitHub Plugin URI: jimvadams/simple-admin-notice
  */
 
 // Prevent direct access
