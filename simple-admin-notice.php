@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Simple Admin Notice
  * Description: A super simple plugin that displays a notice in the WordPress admin area.
- * Version: 1.3
+ * Version: 1.4
  * Author: jim
  * GitHub Plugin URI: jimvadams/simple-admin-notice
  */
